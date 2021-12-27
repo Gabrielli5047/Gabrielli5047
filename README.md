@@ -2,6 +2,7 @@
 ##
 
 - 💻 Atualmente estudo/programo com HTML, CSS, JavaScript, NodeJs, PostgreSQL, React, c++ e python.
+- 🎒 Aluna SENAI - Lauro de Freitas. 
 - 📫 Email: gabrielli.meloo@hotmail.com ou gabrielli.meloo16@gmail.com
 - 📞 Telefone: (71)9 9718-9443
 - 😄 Pronomes: ela/dela
