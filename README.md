@@ -1,7 +1,8 @@
 ### Bom dia, boa tarde, boa noite, sou Gabrielli Melo, 23 anos e apaixonada por tecnologia!!
 ##
 
-- 💻 Atualmente estudo/programo com HTML, CSS, JavaScript, NodeJs, PostgreSQL, React, c++ e python.
+- 💻 Atualmente estudo/programo com HTML, CSS, JavaScript, NodeJs, PostgreSQL, React, c++ e java;
+- Software engineer at iFood;
 - 🎒 Aluna SENAI - Lauro de Freitas. 
 - 📫 Email: gabrielli.meloo@hotmail.com ou gabrielli.meloo16@gmail.com
 - 📞 Telefone: (71)9 9718-9443
