@@ -2,7 +2,7 @@
 ##
 
 - 💻 Atualmente estudo/programo com HTML, CSS, JavaScript, NodeJs, PostgreSQL, React, c++ e java;
-- 🚀 Software engineer at iFood;
+- 🚀 Exp: Software engineer at iFood, Monitora FullStack Cubos academy;
 - 📫 Email: gabrielli.meloo@hotmail.com ou gabrielli.meloo16@gmail.com
 - 📞 Telefone: (71)9 9718-9443
 - 😄 Pronomes: ela/dela
